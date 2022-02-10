@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    
+}
+nav{
+    background-color:#202020;
+    display: flex;
+}
+#navbar{
+    height: 55px;
+}
+#leftsidemenu img{
+    margin-top: .5rem;
+    height: 4vh;
+}
+
+#yt-logo img{
+    /* margin: 20px; */
+    margin-top: .7rem;
+    height: 3vh;
+}
+#yt-logo{display: flex;
+    font-size: 1.8rem;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    margin-left: 13px;
+    width: 98px;
+}
+#yt-logo p{
+    padding-left: .2rem;
+    margin-top: .5rem;
+    
+}
+
+.signIn img{
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    /* left: 15px; */
+    /* width: 165px;
+    height: 5rem; */
+    height: 45px;
+    /* width: 50px; */
+}
+
+
+
