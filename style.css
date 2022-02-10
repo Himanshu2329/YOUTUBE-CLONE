@@ -32,7 +32,8 @@ nav{
     
 }
 #yt-logo a{
-    
+    color: rgb(255, 255, 255);
+    text-decoration: none;
 }
 
 .signIn img{
@@ -46,23 +47,30 @@ nav{
     /* width: 50px; */
 }
 #search input{
-    margin-top: .71rem;
-    height: 1.9rem;
-    width: 25em;
+    padding: 1.2rem;
+    margin-top: .31rem;
+    height: 1.2rem;
+    width: 35em;
     margin-left: 35rem;
     background-color: #141414;
     border: 2px solid #202020;
 }
 #SearchImage img {
-    height: 1.6rem;
+    height: 2.3rem;
     width: 3.8rem;
-    margin-top: .72rem;
+    margin-top: .45rem;
 }
 #MIC img{
-    height: 1.8rem;
+    height: 2.5rem;
     width: 2.5rem;
-    margin-top: .71rem;
-    margin-left: .5rem;
+    margin-top: .451rem;
+    margin-left: .8rem;
+}
+#menu img{
+    height: 2.5rem;
+    width: 2.5rem;
+    margin-top: .451rem;
+    margin-left: 21.5rem;
 }
 
 
