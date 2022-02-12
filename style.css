@@ -164,6 +164,7 @@ ul li{
 
 }
 ul li a{
+    cursor: pointer;
     background-color: rgb(61, 61, 61);
 
     border: 1px solid grey;
