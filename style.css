@@ -79,6 +79,20 @@ nav{
     margin-top: .451rem;
     margin-left: .4rem;
 }
+#sideNav{
+    background-color: #202020;
+    display: inline-block;
+    color: aliceblue;
+    /* flex-wrap: wrap; */
+    /* flex-direction: column; */
+    /* width: 50%; */
+}
+#firstSection{
+    flex-direction: column;
+    display: flex;
+}
+
+
 
 
 
