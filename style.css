@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     
+    
 }
 nav{
     background-color:#202020;
@@ -80,17 +81,99 @@ nav{
     margin-left: .4rem;
 }
 #sideNav{
+    height: 60vh;
     background-color: #202020;
     display: inline-block;
     color: aliceblue;
     /* flex-wrap: wrap; */
     /* flex-direction: column; */
-    /* width: 50%; */
+    width: 12%;
 }
-#firstSection{
-    flex-direction: column;
+#firstSection img{
+    width: 3.8vh;
+    margin-left: 5px;
+    margin-top:1.2rem ;
+}
+#secondSection img{
+    width: 3.8vh;
+    /* height: 2.2vh; */
+    margin-left: 8px;
+    margin-top:1.2rem ;
+}
+#home{
+    display: flex;
+    
+}
+#side{
+    margin-top: 50px;
+    width: 95%;
+    
+    /* text-align: center; */
+    margin: 2%;
+
+}
+.home{
+    margin-top:1.9rem;
+    font-size: larger;
+    margin-left:8px ;
+}
+#explore{
     display: flex;
 }
+#lib{
+    display: flex;
+}
+#sub{
+    display: flex;
+}
+
+  /* display: flex; */
+
+#watch{
+    display: flex;
+}
+#like{
+    display: flex;
+}
+.sec{
+    
+    margin-top:1.9rem;
+    font-size: larger;
+    margin-left:8px ;
+}
+#third{
+    /* width: 10rem; */
+    margin-top: 50px;
+    text-align: center;
+}
+#navbar2{
+    height: 5.9vh;
+    color: white;
+    background-color: #202020;
+    position: absolute;
+    display: inline-block;
+}
+#navbar2 ul  {
+    display: flex;
+    margin-left: -1.9rem;
+}
+ul li{
+    /* background-color: aqua; */
+    margin: 15px;
+    list-style: none;
+
+}
+ul li a{
+    background-color: rgb(61, 61, 61);
+
+    border: 1px solid grey;
+    border-radius: 25px;
+    /* margin-top: 15px; */
+    padding: 1vh;
+}
+
+
+
 
 
 
