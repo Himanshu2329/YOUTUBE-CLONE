@@ -47,13 +47,14 @@ nav{
     /* width: 50px; */
 }
 #search input{
+    color: white;
     padding: 1.2rem;
     margin-top: .31rem;
     height: 1.2rem;
     width: 35em;
     margin-left: 35rem;
     background-color: #141414;
-    border: 2px solid #202020;
+    border: 1px solid #202020;
 }
 #SearchImage img {
     height: 2.3rem;
