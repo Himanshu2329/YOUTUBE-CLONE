@@ -1,13 +1,15 @@
 *{
     margin: 0%;
+    background-color:#202020;
     
     
 }
 nav{
-    background-color:#202020;
+    
     display: flex;
 }
 #navbar{
+    background-color:#202020;
     height: 55px;
 }
 #leftsidemenu img{
@@ -39,7 +41,7 @@ nav{
 
 .signIn img{
     position: absolute;
-    right: 20px;
+    right: 1px;
     top: 5px;
     /* left: 15px; */
     /* width: 165px;
@@ -47,7 +49,11 @@ nav{
     height: 45px;
     /* width: 50px; */
 }
+#search{
+    /* width: 50rem1; */display: contents;
+}
 #search input{
+    /* display: ; */
     color: white;
     padding: 1.2rem;
     margin-top: .31rem;
@@ -87,7 +93,7 @@ nav{
     color: aliceblue;
     /* flex-wrap: wrap; */
     /* flex-direction: column; */
-    width: 12%;
+    width: 10%;
 }
 #firstSection img{
     width: 3.8vh;
@@ -171,6 +177,41 @@ ul li a{
     border-radius: 25px;
     /* margin-top: 15px; */
     padding: 1vh;
+}
+#main{
+    background-color: #000000;
+    position: absolute;
+    top: 8rem;
+    /* margin: 1rem; */
+    left: 16.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    /* align-content: space-between; */
+}
+#container{
+    margin: 1rem;
+    width: 23.3rem;
+    /* border: 1px solid black; */
+}
+#container1{width: 23.3rem;
+    margin: 1rem;
+    /* border: 1px solid black; */
+}
+#container2{width: 23.3rem;
+    margin: 1rem;
+    /* border: 1px solid black; */
+}
+#container3{width: 23.3rem;
+    margin: 1rem;
+
+    /* border: 1px solid black; */
+}
+.time{
+    color: rgb(112, 112, 112);
+}
+.mains{
+    color: azure;
+
 }
 
 
